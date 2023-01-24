@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 import '../styles/App.css';
 const App = () => {
-  const [inc, setInc] = useState(0)
+  const [inc, setInc] = useState(1)
   
   function Increment() {
 
